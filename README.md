@@ -12,7 +12,7 @@
 Python | Git | PyTorch
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anshikayadav123&show_icons=true&theme=radical)
+![Anshika's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshikayadav123&show_icons=true&theme=radical)
 
 ## 🛠️ Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
